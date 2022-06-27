@@ -1,7 +1,7 @@
 # オープンワークのエンジニアロードマップ
 [roadmap.sh](https://roadmap.sh/)のオープンワーク版です。  
 [エンジニアキャリアラダー](https://github.com/openwork-oss/engineeringladders)では扱わない具体的な技術スキルに関しての道標になります。  
-オープンワークで使用する技術をマッピングし、重点的に学習した方が良いものを色付けしています。
+オープンワークで使用する技術をマッピングし、重点的に学習した方が良いものを色付けしています。  
 経験学習の`7(仕事):2(他人):1(勉強)の法則`の`1`の部分にあたる自己学習を効率的に行うために使用してください。
 
 
@@ -44,6 +44,7 @@
 |:-|:-:|
 |[公式サイト](https://www.php.net/manual/ja/index.php)|OFFICIAL WEB SITE|
 |[PHP](https://prog-8.com/courses/php)|LEARN|
+
 ※PHP7.4以降の学習をお勧めします
 ### Symfony
 |教材|タイプ|
@@ -51,6 +52,7 @@
 |[公式サイト](https://symfony.com/)|OFFICIAL WEB SITE|
 |[Learn Symfony4](https://symfonycasts.com/tracks/symfony4)|WATCH|
 |[Symfony 4 & 5 Web Development Guide: Beginner To Advanced](https://www.udemy.com/course/symfony-4-web-development-from-beginner-to-advanced/)|WATCH|
+
 ※Symfony4.4以降の学習をお勧めします
 ### Twig
 |教材|タイプ|
@@ -64,6 +66,7 @@
 |教材|タイプ|
 |:-|:-:|
 |[Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)|LEARN|
+
 ※ GitHubFlowは知っておいて欲しい
 ### RDB
 |教材|タイプ|
