@@ -66,6 +66,7 @@
 |教材|タイプ|
 |:-|:-:|
 |[Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)|LEARN|
+|[GitHub - Microsoft Learn](https://learn.microsoft.com/ja-jp/training/github/)|LEARN|
 
 ※ GitHubFlowは知っておいて欲しい
 ### RDB
