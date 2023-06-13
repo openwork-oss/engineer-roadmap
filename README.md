@@ -432,7 +432,7 @@
 | [公式サイト](https://docs.aws.amazon.com/ja_jp/elasticache/)                                                             | OFFICIAL WEB SITE |
 | [AWS 再入門 2022 AWS ElastiCache について](https://dev.classmethod.jp/articles/re-introduction-2022-amazon-elasticache/) |       READ        |
 
-### OpenSearchService
+### OpenSearch Service
 
 | 教材                                                                |      タイプ       |
 | :------------------------------------------------------------------ | :---------------: |
