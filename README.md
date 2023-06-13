@@ -425,7 +425,7 @@
 | [公式サイト](https://docs.aws.amazon.com/ja_jp/dynamodb/)                                                            | OFFICIAL WEB SITE |
 | [AWS 再入門ブログリレー 2022 Amazon DynamoDB 編](https://dev.classmethod.jp/articles/re-introduction-2022-dynamodb/) |       READ        |
 
-### Elasticache
+### ElastiCache
 
 | 教材                                                                                                                     |      タイプ       |
 | :----------------------------------------------------------------------------------------------------------------------- | :---------------: |
