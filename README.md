@@ -451,7 +451,7 @@
 | [公式サイト](https://docs.aws.amazon.com/ja_jp/cloudfront/)                                                    | OFFICIAL WEB SITE |
 | [AWS 再入門ブログリレー 2022 CloudFront 編](https://dev.classmethod.jp/articles/2022_cloudfront_introduction/) |       READ        |
 
-### TreasureData
+### Treasure Data
 
 | 教材                                         |      タイプ       |
 | :------------------------------------------- | :---------------: |
